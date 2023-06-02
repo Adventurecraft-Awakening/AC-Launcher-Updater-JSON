@@ -828,16 +828,20 @@
             "url": "https://repo1.maven.org/maven2/"
         },
         {
-            "name": "com.github.LlamaLad7:MixinExtras:0.1.1",
-            "url": "https://jitpack.io/"
-        },
-        {
             "name": "com.github.Chocohead:Fabric-ASM:v2.3",
             "url": "https://jitpack.io/"
         },
         {
             "name": "it.unimi.dsi:fastutil-core:8.5.12",
             "url": "https://repo1.maven.org/maven2/"
+        },
+        {
+            "name": "rhino:js:1.7R2",
+            "url": "https://repo1.maven.org/maven2/"
+        },
+        {
+            "name": "com.github.Adventurecraft-Awakening:AC-LWJGL3-Injector:0.0.1",
+            "url": "https://jitpack.io/"
         }
     ]
 }
