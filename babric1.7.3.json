@@ -8,7 +8,6 @@
     },
     "assets": "pre-1.6",
     "compatibleJavaMajors": [
-        11,
         17,
         18,
         19,
