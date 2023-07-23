@@ -839,7 +839,7 @@
             "url": "https://repo1.maven.org/maven2/"
         },
         {
-            "name": "rhino:js:1.7R2",
+            "name": "org.mozilla:rhino:1.7.14",
             "url": "https://repo1.maven.org/maven2/"
         }
     ]
