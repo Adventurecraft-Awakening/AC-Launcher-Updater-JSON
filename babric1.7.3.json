@@ -497,7 +497,7 @@
             "downloads": {
                 "artifact": {
                     "path": "org/lwjgl/lwjgl-opengl-natives-windows/3.3.2/lwjgl-opengl-3.3.2.jar",
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows.jar"
                 }
             },
             "rules": [
