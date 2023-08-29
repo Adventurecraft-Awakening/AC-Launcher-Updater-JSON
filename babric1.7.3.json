@@ -843,8 +843,8 @@
             "url": "https://repo1.maven.org/maven2/"
         },
         {
-            "name": "com.github.Mojang:brigadier:1.0.18",
-            "url": "https://jitpack.io"
+            "name": "com.mojang:brigadier:1.1.8",
+            "url": "https://libraries.minecraft.net/"
         }
     ]
 }
