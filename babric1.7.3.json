@@ -732,7 +732,7 @@
             "downloads": {
                 "artifact": {
                     "path": "babric/log4j-config/1.0.0/log4j-config-1.0.0.jar",
-                    "url": "https://maven.glass-launcher.net/babric/babric/log4j-config/1.0.0/log4j-config-1.0.0.jar"
+                    "url": "https://files.adventurecraft.dev/ac-game-files/log4j-config-1.0.0.jar"
                 }
             }
         },
@@ -745,7 +745,7 @@
             "downloads": {
                 "artifact": {
                     "path": "babric/intermediary/b1.7.3/intermediary-b1.7.3.jar",
-                    "url": "https://maven.glass-launcher.net/babric/babric/intermediary/b1.7.3/intermediary-b1.7.3.jar"
+                    "url": "https://files.adventurecraft.dev/ac-game-files/intermediary-b1.7.3.jar"
                 }
             }
         },
@@ -790,7 +790,7 @@
             "downloads": {
                 "artifact": {
                     "path": "babric/fabric-loader/0.14.19-babric.1/fabric-loader-0.14.19-babric.1.jar",
-                    "url": "https://maven.glass-launcher.net/babric/babric/fabric-loader/0.14.19-babric.1/fabric-loader-0.14.19-babric.1.jar"
+                    "url": "https://files.adventurecraft.dev/ac-game-files/fabric-loader-0.14.19-babric.1.jar"
                 }
             }
         },
