@@ -8,10 +8,6 @@
     },
     "assets": "pre-1.6",
     "compatibleJavaMajors": [
-        17,
-        18,
-        19,
-        20,
         21
     ],
     "formatVersion": 1,
@@ -25,7 +21,7 @@
     ],
     "libraries": [
         {
-            "name": "com.github.Adventurecraft-Awakening:AC-LWJGL3-Injector:0.0.3",
+            "name": "com.github.Adventurecraft-Awakening:AC-LWJGL3-Injector:0.0.4",
             "url": "https://jitpack.io/"
         },
         {
@@ -751,11 +747,11 @@
             }
         },
         {
-            "name": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
+            "name": "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "net.fabricmc:sponge-mixin:0.12.4+mixin.0.8.5",
+            "name": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
             "url": "https://maven.fabricmc.net/"
         },
         {
@@ -767,31 +763,31 @@
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "org.ow2.asm:asm:9.4",
+            "name": "org.ow2.asm:asm:9.6",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "org.ow2.asm:asm-analysis:9.4",
+            "name": "org.ow2.asm:asm-analysis:9.6",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "org.ow2.asm:asm-commons:9.4",
+            "name": "org.ow2.asm:asm-commons:9.6",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "org.ow2.asm:asm-tree:9.4",
+            "name": "org.ow2.asm:asm-tree:9.6",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "org.ow2.asm:asm-util:9.4",
+            "name": "org.ow2.asm:asm-util:9.6",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "babric:fabric-loader:0.14.19-babric.1",
+            "name": "babric:fabric-loader:0.14.24-babric.1",
             "downloads": {
                 "artifact": {
-                    "path": "babric/fabric-loader/0.14.19-babric.1/fabric-loader-0.14.19-babric.1.jar",
-                    "url": "https://files.adventurecraft.dev/ac-game-files/fabric-loader-0.14.19-babric.1.jar"
+                    "path": "babric/fabric-loader/0.14.24-babric.1/fabric-loader-0.14.24-babric.1.jar",
+                    "url": "https://files.adventurecraft.dev/ac-game-files/fabric-loader-0.14.24-babric.1.jar"
                 }
             }
         },
@@ -816,7 +812,7 @@
             "url": "https://repo1.maven.org/maven2/"
         },
         {
-            "name": "com.google.guava:guava:31.0.1-jre",
+            "name": "com.google.guava:guava:31.1-jre",
             "url": "https://repo1.maven.org/maven2/"
         },
         {
@@ -844,7 +840,7 @@
             "url": "https://repo1.maven.org/maven2/"
         },
         {
-            "name": "com.mojang:brigadier:1.1.8",
+            "name": "com.mojang:brigadier:1.2.9",
             "url": "https://libraries.minecraft.net/"
         }
     ]
