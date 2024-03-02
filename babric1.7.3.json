@@ -8,6 +8,10 @@
     },
     "assets": "pre-1.6",
     "compatibleJavaMajors": [
+        17,
+        18,
+        19,
+        20,
         21
     ],
     "formatVersion": 1,
@@ -21,7 +25,7 @@
     ],
     "libraries": [
         {
-            "name": "com.github.Adventurecraft-Awakening:AC-LWJGL3-Injector:0.0.4",
+            "name": "com.github.Adventurecraft-Awakening:AC-LWJGL3-Injector:0.0.5",
             "url": "https://jitpack.io/"
         },
         {
