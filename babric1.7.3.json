@@ -788,7 +788,12 @@
         },
         {
             "name": "babric:fabric-loader:0.15.6-babric.2",
-            "url": "https://maven.glass-launcher.net/babric"
+            "downloads": {
+                "artifact": {
+                    "path": "babric/fabric-loader/0.15.6-babric.2/fabric-loader-0.15.6-babric.2.jar",
+                    "url": "https://maven.glass-launcher.net/babric/babric/fabric-loader/0.15.6-babric.2/fabric-loader-0.15.6-babric.2.jar"
+                }
+            }
         },
         {
             "name": "org.slf4j:slf4j-api:1.8.0-beta4",
