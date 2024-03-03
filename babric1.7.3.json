@@ -791,7 +791,8 @@
             "downloads": {
                 "artifact": {
                     "path": "babric/fabric-loader/0.15.6-babric.2/fabric-loader-0.15.6-babric.2.jar",
-                    "url": "https://maven.glass-launcher.net/babric/babric/fabric-loader/0.15.6-babric.2/fabric-loader-0.15.6-babric.2.jar"
+                    "url": "https://files.adventurecraft.dev/ac-game-files/fabric-loader-0.15.6-babric.2.jar",
+                    "sha1": "d6668200c294b610c16788e4ae66a8e763edf373"
                 }
             }
         },
