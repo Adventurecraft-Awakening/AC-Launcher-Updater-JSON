@@ -712,6 +712,28 @@
         },
 
         {
+            "name": "babric:log4j-config:1.0.0",
+            "downloads": {
+                "artifact": {
+                    "sha1": "ba145a6f12f73a09a7c4d246769c9be38ab8d983",
+                    "size": 1164,
+                    "url": "https://files.adventurecraft.dev/ac-game-files/log4j-config-1.0.0.jar",
+                    "path": "babric/log4j-config/1.0.0/log4j-config-1.0.0.jar"
+                }
+            }
+        },
+        {
+            "name": "net.minecrell:terminalconsoleappender:1.2.0",
+            "url": "https://repo1.maven.org/maven2/",
+            "downloads": {
+                "artifact": {
+                    "sha1": "96d02cd3b384ff015a8fef4223bcb4ccf1717c95",
+                    "size": 15977,
+                    "url": "https://repo1.maven.org/maven2/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                }
+            }
+        },
+        {
             "name": "org.slf4j:slf4j-api:1.8.0-beta4",
             "url": "https://repo1.maven.org/maven2/",
             "downloads": {
