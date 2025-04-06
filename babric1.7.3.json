@@ -51,7 +51,8 @@
                 "artifact": {
                     "sha1": "dd8cc4b6ad12d714d14fd20966458e6288aba430",
                     "size": 300844,
-                    "url": "https://jitpack.io/com/github/Adventurecraft-Awakening/AC-LWJGL3-Injector/0.2.4.6/AC-LWJGL3-Injector-0.2.4.6.jar"
+                    "url": "https://jitpack.io/com/github/Adventurecraft-Awakening/AC-LWJGL3-Injector/0.2.4.6/AC-LWJGL3-Injector-0.2.4.6.jar",
+                    "path": "com/github/Adventurecraft-Awakening/AC-LWJGL3-Injector/0.2.4.6/AC-LWJGL3-Injector-0.2.4.6.jar"
                 }
             }
         },
@@ -63,7 +64,8 @@
                 "artifact": {
                     "sha1": "797e0965709ad180d9b00c88a086dbda15002203",
                     "size": 128137,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-linux.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-linux.jar",
+                    "path": "org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-linux.jar"
                 }
             },
             "rules": [
@@ -82,7 +84,8 @@
                 "artifact": {
                     "sha1": "399b42b491c5dfa6595ae6fd79dcba61b93538a7",
                     "size": 146109,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-macos-arm64.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-macos-arm64.jar",
+                    "path": "org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-macos-arm64.jar"
                 }
             },
             "rules": [
@@ -107,7 +110,8 @@
                 "artifact": {
                     "sha1": "82c8d748a654241b5961ddd1c098e8b648e38a48",
                     "size": 151479,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-macos.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-macos.jar",
+                    "path": "org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-macos.jar"
                 }
             },
             "rules": [
@@ -126,7 +130,8 @@
                 "artifact": {
                     "sha1": "cfa8f1e96d572ed56da5945adf5167628f5eecdb",
                     "size": 164971,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-windows-x86.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-windows-x86.jar",
+                    "path": "org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-windows-x86.jar"
                 }
             },
             "rules": [
@@ -145,7 +150,8 @@
                 "artifact": {
                     "sha1": "99ef08056feb9627f90425a4d2a22cd9fae8e39b",
                     "size": 171962,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-windows.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-windows.jar",
+                    "path": "org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6-natives-windows.jar"
                 }
             },
             "rules": [
@@ -164,7 +170,8 @@
                 "artifact": {
                     "sha1": "07119f7d0eeb1e5502ff0ca71d2b4d47317da015",
                     "size": 148078,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6.jar",
+                    "path": "org/lwjgl/lwjgl-glfw/3.3.6/lwjgl-glfw-3.3.6.jar"
                 }
             }
         },
@@ -176,7 +183,8 @@
                 "artifact": {
                     "sha1": "dc7db8fc4f1e6563867f9155b9a42d9c73d8992f",
                     "size": 121299,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-linux.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-linux.jar",
+                    "path": "org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-linux.jar"
                 }
             },
             "rules": [
@@ -195,7 +203,8 @@
                 "artifact": {
                     "sha1": "832e2964ce74e02e768814a29c06d60645115b9a",
                     "size": 50369,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-macos-arm64.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-macos-arm64.jar",
+                    "path": "org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-macos-arm64.jar"
                 }
             },
             "rules": [
@@ -220,7 +229,8 @@
                 "artifact": {
                     "sha1": "f14e7a5289d2355822f4f83b3fd38d158c939acd",
                     "size": 75211,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-macos.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-macos.jar",
+                    "path": "org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-macos.jar"
                 }
             },
             "rules": [
@@ -239,7 +249,8 @@
                 "artifact": {
                     "sha1": "7a6f04e02429ba2f4bda9be191347bb7d3c71127",
                     "size": 144049,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-windows-x86.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-windows-x86.jar",
+                    "path": "org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-windows-x86.jar"
                 }
             },
             "rules": [
@@ -258,7 +269,8 @@
                 "artifact": {
                     "sha1": "9a29b6a22fc5184604b8cb434ee5d5ecc4bfcbee",
                     "size": 168988,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-windows.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-windows.jar",
+                    "path": "org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6-natives-windows.jar"
                 }
             },
             "rules": [
@@ -277,7 +289,8 @@
                 "artifact": {
                     "sha1": "ce7721d30cfaf47feaed10213e0c43eb55c49d68",
                     "size": 823245,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6.jar",
+                    "path": "org/lwjgl/lwjgl/3.3.6/lwjgl-3.3.6.jar"
                 }
             }
         },
@@ -289,7 +302,8 @@
                 "artifact": {
                     "sha1": "ef356c04ef141d4efbde07793f31784f1f1a1bae",
                     "size": 765147,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-linux.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-linux.jar",
+                    "path": "org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-linux.jar"
                 }
             },
             "rules": [
@@ -308,7 +322,8 @@
                 "artifact": {
                     "sha1": "13f692aec4ae4b2d3c468aa0008472175f0ea1e0",
                     "size": 523209,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-macos-arm64.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-macos-arm64.jar",
+                    "path": "org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-macos-arm64.jar"
                 }
             },
             "rules": [
@@ -333,7 +348,8 @@
                 "artifact": {
                     "sha1": "c39f6827f0bd97601fc4e389801d5c813f59a5f2",
                     "size": 574093,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-macos.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-macos.jar",
+                    "path": "org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-macos.jar"
                 }
             },
             "rules": [
@@ -352,7 +368,8 @@
                 "artifact": {
                     "sha1": "82f693541d69aa125750bf8be9c4194435c56f03",
                     "size": 697562,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-windows-x86.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-windows-x86.jar",
+                    "path": "org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-windows-x86.jar"
                 }
             },
             "rules": [
@@ -371,7 +388,8 @@
                 "artifact": {
                     "sha1": "9c2b9b660e085bb0b47a4453dc0e26f24a5475e4",
                     "size": 761720,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-windows.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-windows.jar",
+                    "path": "org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6-natives-windows.jar"
                 }
             },
             "rules": [
@@ -390,7 +408,8 @@
                 "artifact": {
                     "sha1": "ad313317ff399fd2a7f4dd74716a68cf3976c6ad",
                     "size": 153061,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6.jar",
+                    "path": "org/lwjgl/lwjgl-openal/3.3.6/lwjgl-openal-3.3.6.jar"
                 }
             }
         },
@@ -402,7 +421,8 @@
                 "artifact": {
                     "sha1": "b8dc6467fe232d552793c53dc56f9fa8a385299c",
                     "size": 80466,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-linux.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-linux.jar",
+                    "path": "org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-linux.jar"
                 }
             },
             "rules": [
@@ -421,7 +441,8 @@
                 "artifact": {
                     "sha1": "fee4fb2ee786af6530b6f9188205a76bc4e05268",
                     "size": 42551,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-macos-arm64.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-macos-arm64.jar",
+                    "path": "org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-macos-arm64.jar"
                 }
             },
             "rules": [
@@ -446,7 +467,8 @@
                 "artifact": {
                     "sha1": "59f708eb4bf0be0204bbc9c06807911724673db6",
                     "size": 53873,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-macos.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-macos.jar",
+                    "path": "org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-macos.jar"
                 }
             },
             "rules": [
@@ -465,7 +487,8 @@
                 "artifact": {
                     "sha1": "b0ab1d0e315d2fcc50d6cab7e8feaf4688d5d9a0",
                     "size": 89383,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-windows-x86.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-windows-x86.jar",
+                    "path": "org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-windows-x86.jar"
                 }
             },
             "rules": [
@@ -484,7 +507,8 @@
                 "artifact": {
                     "sha1": "18dc639ebc94aa5202c2157f7490d28997b697c5",
                     "size": 98896,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-windows.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-windows.jar",
+                    "path": "org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6-natives-windows.jar"
                 }
             },
             "rules": [
@@ -503,7 +527,8 @@
                 "artifact": {
                     "sha1": "ac2532612a4df374e9a9282bcf8ce2573018ebbb",
                     "size": 935339,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6.jar",
+                    "path": "org/lwjgl/lwjgl-opengl/3.3.6/lwjgl-opengl-3.3.6.jar"
                 }
             }
         },
@@ -515,7 +540,8 @@
                 "artifact": {
                     "sha1": "78f27d07accd70ca857049ea9fa0dc7d2f3875dc",
                     "size": 270145,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-linux.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-linux.jar",
+                    "path": "org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-linux.jar"
                 }
             },
             "rules": [
@@ -534,7 +560,8 @@
                 "artifact": {
                     "sha1": "1a0c5e9e5a8b049dccad7b7b137aab44f14c5d25",
                     "size": 185447,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-macos-arm64.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-macos-arm64.jar",
+                    "path": "org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-macos-arm64.jar"
                 }
             },
             "rules": [
@@ -559,7 +586,8 @@
                 "artifact": {
                     "sha1": "d18b8016b1d458327ba987d398d7dd4fd20fb115",
                     "size": 217126,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-macos.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-macos.jar",
+                    "path": "org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-macos.jar"
                 }
             },
             "rules": [
@@ -578,7 +606,8 @@
                 "artifact": {
                     "sha1": "bfe841629fc2ed6d772693c3a40a0c4b355567c9",
                     "size": 253757,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-windows-x86.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-windows-x86.jar",
+                    "path": "org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-windows-x86.jar"
                 }
             },
             "rules": [
@@ -597,7 +626,8 @@
                 "artifact": {
                     "sha1": "334cf885b39e2db9070c39e70e65efb136435f10",
                     "size": 292021,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-windows.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-windows.jar",
+                    "path": "org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6-natives-windows.jar"
                 }
             },
             "rules": [
@@ -616,7 +646,8 @@
                 "artifact": {
                     "sha1": "e2d3739dcfe7b672b626ded66d94f6587083306e",
                     "size": 144610,
-                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6.jar"
+                    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6.jar",
+                    "path": "org/lwjgl/lwjgl-stb/3.3.6/lwjgl-stb-3.3.6.jar"
                 }
             }
         },
@@ -628,7 +659,8 @@
                 "artifact": {
                     "sha1": "b103dc725ea1a3226c63c8f550e589e0d51265fc",
                     "size": 44953,
-                    "url": "https://jitpack.io/com/github/Adventurecraft-Awakening/babric-intermediary/b1.7.3-upstream/0.2/b1.7.3-upstream-0.2-v2.jar"
+                    "url": "https://jitpack.io/com/github/Adventurecraft-Awakening/babric-intermediary/b1.7.3-upstream/0.2/b1.7.3-upstream-0.2-v2.jar",
+                    "path": "com/github/Adventurecraft-Awakening/babric-intermediary/b1.7.3-upstream/0.2/b1.7.3-upstream-0.2-v2.jar"
                 }
             }
         },
@@ -640,7 +672,8 @@
                 "artifact": {
                     "sha1": "6a12aacc794f1078458433116e9ed42c1cc98096",
                     "size": 1494834,
-                    "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar",
+                    "path": "net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
                 }
             }
         },
@@ -651,7 +684,8 @@
                 "artifact": {
                     "sha1": "f0ed132a49244b042cd0e15702ab9f2ce3cc8436",
                     "size": 126093,
-                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar",
+                    "path": "org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
                 }
             }
         },
@@ -662,7 +696,8 @@
                 "artifact": {
                     "sha1": "f97a3b319f0ed6a8cd944dc79060d3912a28985f",
                     "size": 35126,
-                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar",
+                    "path": "org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
                 }
             }
         },
@@ -673,7 +708,8 @@
                 "artifact": {
                     "sha1": "406c6a2225cfe1819f102a161e54cc16a5c24f75",
                     "size": 73459,
-                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar",
+                    "path": "org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
                 }
             }
         },
@@ -684,7 +720,8 @@
                 "artifact": {
                     "sha1": "3a53139787663b139de76b627fca0084ab60d32c",
                     "size": 51939,
-                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar",
+                    "path": "org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
                 }
             }
         },
@@ -695,7 +732,8 @@
                 "artifact": {
                     "sha1": "9e23359b598ec6b74b23e53110dd5c577adf2243",
                     "size": 94519,
-                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar",
+                    "path": "org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
                 }
             }
         },
@@ -706,13 +744,15 @@
                 "artifact": {
                     "sha1": "dbd932c2a3641d2c41cf9abfe47e140a5753fa86",
                     "size": 1387408,
-                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar",
+                    "path": "net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
                 }
             }
         },
 
         {
             "name": "babric:log4j-config:1.0.0",
+            "url": null,
             "downloads": {
                 "artifact": {
                     "sha1": "ba145a6f12f73a09a7c4d246769c9be38ab8d983",
@@ -729,7 +769,8 @@
                 "artifact": {
                     "sha1": "96d02cd3b384ff015a8fef4223bcb4ccf1717c95",
                     "size": 15977,
-                    "url": "https://repo1.maven.org/maven2/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                    "url": "https://repo1.maven.org/maven2/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar",
+                    "path": "net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
                 }
             }
         },
@@ -740,7 +781,8 @@
                 "artifact": {
                     "sha1": "83b0359d847ee053d745be7ec0d8e9e8a44304b4",
                     "size": 44213,
-                    "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar"
+                    "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar",
+                    "path": "org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar"
                 }
             }
         },
@@ -751,7 +793,8 @@
                 "artifact": {
                     "sha1": "12ac9a08c4115746d8f52f9b01d32c25d9a41add",
                     "size": 21526,
-                    "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j18-impl/2.18.0/log4j-slf4j18-impl-2.18.0.jar"
+                    "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j18-impl/2.18.0/log4j-slf4j18-impl-2.18.0.jar",
+                    "path": "org/apache/logging/log4j/log4j-slf4j18-impl/2.18.0/log4j-slf4j18-impl-2.18.0.jar"
                 }
             }
         },
@@ -762,7 +805,8 @@
                 "artifact": {
                     "sha1": "c72ad9b1d8d42e4ea7befd8248bf05877af4c63d",
                     "size": 315115,
-                    "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.18.0/log4j-api-2.18.0.jar"
+                    "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.18.0/log4j-api-2.18.0.jar",
+                    "path": "org/apache/logging/log4j/log4j-api/2.18.0/log4j-api-2.18.0.jar"
                 }
             }
         },
@@ -773,7 +817,8 @@
                 "artifact": {
                     "sha1": "07c1882ede137548925eadb750615edab2f6e13c",
                     "size": 1861441,
-                    "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.18.0/log4j-core-2.18.0.jar"
+                    "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.18.0/log4j-core-2.18.0.jar",
+                    "path": "org/apache/logging/log4j/log4j-core/2.18.0/log4j-core-2.18.0.jar"
                 }
             }
         },
@@ -784,7 +829,8 @@
                 "artifact": {
                     "sha1": "03fcc0a259f724c7de54a6a55ea7e26d3d5c0cac",
                     "size": 3080298,
-                    "url": "https://repo1.maven.org/maven2/com/google/guava/guava/33.4.0-jre/guava-33.4.0-jre.jar"
+                    "url": "https://repo1.maven.org/maven2/com/google/guava/guava/33.4.0-jre/guava-33.4.0-jre.jar",
+                    "path": "com/google/guava/guava/33.4.0-jre/guava-33.4.0-jre.jar"
                 }
             }
         },
@@ -795,7 +841,8 @@
                 "artifact": {
                     "sha1": "b17d2136f0460dcc0d2016ceefca8723bdf4ee70",
                     "size": 673587,
-                    "url": "https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar"
+                    "url": "https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar",
+                    "path": "org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar"
                 }
             }
         },
@@ -806,7 +853,8 @@
                 "artifact": {
                     "sha1": "b1c877e4cc3618aa3ba34f9a44520b5f8fdbb5f7",
                     "size": 6600326,
-                    "url": "https://repo1.maven.org/maven2/it/unimi/dsi/fastutil-core/8.5.15/fastutil-core-8.5.15.jar"
+                    "url": "https://repo1.maven.org/maven2/it/unimi/dsi/fastutil-core/8.5.15/fastutil-core-8.5.15.jar",
+                    "path": "it/unimi/dsi/fastutil-core/8.5.15/fastutil-core-8.5.15.jar"
                 }
             }
         },
@@ -817,7 +865,8 @@
                 "artifact": {
                     "sha1": "889636434674822ce2d14d6e92f7cf96726c6783",
                     "size": 1262303,
-                    "url": "https://repo1.maven.org/maven2/org/mozilla/rhino/1.8.0/rhino-1.8.0.jar"
+                    "url": "https://repo1.maven.org/maven2/org/mozilla/rhino/1.8.0/rhino-1.8.0.jar",
+                    "path": "org/mozilla/rhino/1.8.0/rhino-1.8.0.jar"
                 }
             }
         },
@@ -828,7 +877,8 @@
                 "artifact": {
                     "sha1": "d15b53a14cf20fdcaa98f731af5dda654452c010",
                     "size": 80082,
-                    "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar"
+                    "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar",
+                    "path": "com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar"
                 }
             }
         }
