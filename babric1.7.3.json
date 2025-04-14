@@ -741,6 +741,8 @@
             "name": "net.fabricmc:fabric-loader:0.16.10",
             "downloads": {
                 "artifact": {
+                    "sha1": "dbd932c2a3641d2c41cf9abfe47e140a5753fa86",
+                    "size": 1387408,
                     "url": "https://files.adventurecraft.dev/ac-game-files/fabric-loader-0.16.10.jar",
                     "path": "net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
                 }
