@@ -678,62 +678,62 @@
             }
         },
         {
-            "name": "org.ow2.asm:asm:9.7.1",
+            "name": "org.ow2.asm:asm:9.8",
             "url": "https://repo1.maven.org/maven2/",
             "downloads": {
                 "artifact": {
-                    "sha1": "f0ed132a49244b042cd0e15702ab9f2ce3cc8436",
-                    "size": 126093,
-                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar",
-                    "path": "org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                    "sha1": "dc19ecb3f7889b7860697215cae99c0f9b6f6b4b",
+                    "size": 126113,
+                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm/9.8/asm-9.8.jar",
+                    "path": "org/ow2/asm/asm/9.8/asm-9.8.jar"
                 }
             }
         },
         {
-            "name": "org.ow2.asm:asm-analysis:9.7.1",
+            "name": "org.ow2.asm:asm-analysis:9.8",
             "url": "https://repo1.maven.org/maven2/",
             "downloads": {
                 "artifact": {
-                    "sha1": "f97a3b319f0ed6a8cd944dc79060d3912a28985f",
-                    "size": 35126,
-                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar",
-                    "path": "org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                    "sha1": "b9747a320844b6cb1eacd90d8ecfd260a16c01d3",
+                    "size": 35151,
+                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar",
+                    "path": "org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
                 }
             }
         },
         {
-            "name": "org.ow2.asm:asm-commons:9.7.1",
+            "name": "org.ow2.asm:asm-commons:9.8",
             "url": "https://repo1.maven.org/maven2/",
             "downloads": {
                 "artifact": {
-                    "sha1": "406c6a2225cfe1819f102a161e54cc16a5c24f75",
-                    "size": 73459,
-                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar",
-                    "path": "org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                    "sha1": "36e4d212970388e5bd2c5180292012502df461bb",
+                    "size": 73498,
+                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar",
+                    "path": "org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
                 }
             }
         },
         {
-            "name": "org.ow2.asm:asm-tree:9.7.1",
+            "name": "org.ow2.asm:asm-tree:9.8",
             "url": "https://repo1.maven.org/maven2/",
             "downloads": {
                 "artifact": {
-                    "sha1": "3a53139787663b139de76b627fca0084ab60d32c",
-                    "size": 51939,
-                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar",
-                    "path": "org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                    "sha1": "018419ca5b77a2f81097c741e7872e6ab8d2f40d",
+                    "size": 51934,
+                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar",
+                    "path": "org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
                 }
             }
         },
         {
-            "name": "org.ow2.asm:asm-util:9.7.1",
+            "name": "org.ow2.asm:asm-util:9.8",
             "url": "https://repo1.maven.org/maven2/",
             "downloads": {
                 "artifact": {
-                    "sha1": "9e23359b598ec6b74b23e53110dd5c577adf2243",
-                    "size": 94519,
-                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar",
-                    "path": "org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                    "sha1": "395f1c1f035258511f27bc9b2583d76e4b143f59",
+                    "size": 94559,
+                    "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar",
+                    "path": "org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
                 }
             }
         },
