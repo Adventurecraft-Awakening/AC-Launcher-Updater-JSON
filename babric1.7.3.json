@@ -651,7 +651,7 @@
                 }
             }
         },
-        
+
         {
             "name": "com.github.Adventurecraft-Awakening.babric-intermediary:b1.7.3-upstream:0.2:v2",
             "url": "https://jitpack.io/",
@@ -739,12 +739,11 @@
         },
         {
             "name": "net.fabricmc:fabric-loader:0.16.10",
-            "url": "https://maven.fabricmc.net",
             "downloads": {
                 "artifact": {
                     "sha1": "dbd932c2a3641d2c41cf9abfe47e140a5753fa86",
                     "size": 1387408,
-                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar",
+                    "url": "https://files.adventurecraft.dev/ac-game-files/fabric-loader-0.16.10.jar",
                     "path": "net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
                 }
             }
