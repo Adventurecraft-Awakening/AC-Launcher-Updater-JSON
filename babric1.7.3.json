@@ -45,14 +45,14 @@
     },
     "libraries": [
         {
-            "name": "com.github.Adventurecraft-Awakening:AC-LWJGL3-Injector:0.2.4.6",
+            "name": "com.github.Adventurecraft-Awakening:AC-LWJGL3-Injector:0.2.5.0",
             "url": "https://jitpack.io/",
             "downloads": {
                 "artifact": {
-                    "sha1": "dd8cc4b6ad12d714d14fd20966458e6288aba430",
-                    "size": 300844,
-                    "url": "https://jitpack.io/com/github/Adventurecraft-Awakening/AC-LWJGL3-Injector/0.2.4.6/AC-LWJGL3-Injector-0.2.4.6.jar",
-                    "path": "com/github/Adventurecraft-Awakening/AC-LWJGL3-Injector/0.2.4.6/AC-LWJGL3-Injector-0.2.4.6.jar"
+                    "sha1": "262a9f385b121a740a7f25122c0f4f14f4efc656",
+                    "size": 308352,
+                    "url": "https://jitpack.io/com/github/Adventurecraft-Awakening/AC-LWJGL3-Injector/0.2.5.0/AC-LWJGL3-Injector-0.2.5.0.jar",
+                    "path": "com/github/Adventurecraft-Awakening/AC-LWJGL3-Injector/0.2.5.0/AC-LWJGL3-Injector-0.2.5.0.jar"
                 }
             }
         },
